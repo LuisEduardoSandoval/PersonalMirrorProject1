@@ -10,3 +10,8 @@ UI display when user selects the health option
 
 Proof of concept
 ![](PersonalMirrorConceptDemo1.png)
+
+Main Functions
+
+
+Plan to Move forward
