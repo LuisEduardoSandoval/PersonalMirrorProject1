@@ -1,7 +1,10 @@
 # PersonalMirrorProject Group 17
 
 
-![](PersonalMirrorUI.png)
+![](PersonalMirrorUIGeneral.png)
+
+![](PersonalMirrorUIHealthStatus.png)
+
 
 
 ![](PersonalMirrorConceptDemo.png)
