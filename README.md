@@ -29,3 +29,5 @@ Main Functions
 *Calander and Scheduals
 
 Plan to Move forward
+
+Implement UI and design features.
