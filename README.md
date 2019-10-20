@@ -13,7 +13,9 @@ Proof of concept
 
 
 Duties
+
 Caleb - App Interface
+
 Luis - UI
 
 Main Functions
