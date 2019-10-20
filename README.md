@@ -14,9 +14,13 @@ Proof of concept
 
 Duties
 
-Caleb - App Interface
+Caleb - 
 
-Luis - UI
+Luis - 
+
+Alex -
+
+Suhas -
 
 Main Functions
 
@@ -31,3 +35,5 @@ Main Functions
 Plan to Move forward
 
 Implement UI and design features.
+
+Extra features and customization. A menu for desired items 
