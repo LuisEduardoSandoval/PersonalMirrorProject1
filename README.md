@@ -1,5 +1,5 @@
 # PersonalMirrorProject Group 17
-![](WIN_20191019_20_27_55_Pro.jpg)
+![]GroupPhoto.jpg)
 
 ![](PersonalMirrorUIGeneral.png)
 
