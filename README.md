@@ -1,5 +1,5 @@
 # PersonalMirrorProject Group 17
-![]GroupPhoto.jpg)
+![]GroupPhoto2.jpg)
 
 ![](PersonalMirrorUIGeneral.png)
 
