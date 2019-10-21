@@ -20,11 +20,11 @@ Duties
 
 Caleb - Weather, clock, General U.I
 
-Luis -  Music, Health information, General U.I 
+Luis -  Social Feed, Health information, General U.I 
 
 Alex - Text, Calander Feeds.
 
-Suhas - Social Feed and NewsFeeds.
+Suhas - Music and NewsFeeds.
 
 Main Functions
 
