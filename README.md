@@ -14,13 +14,13 @@ Proof of concept
 
 Duties
 
-Caleb - 
+Caleb - Weather, clock, General U.I
 
-Luis - 
+Luis -  Music, Health information, General U.I 
 
-Alex -
+Alex - Text, Calander Feeds.
 
-Suhas -
+Suhas - Social Feed and NewsFeeds.
 
 Main Functions
 
@@ -36,4 +36,4 @@ Plan to Move forward
 
 Implement UI and design features.
 
-Extra features and customization. A menu for desired items 
+Extra features and customization. A menu for desired items at the top and more integrated applications.
