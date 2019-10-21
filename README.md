@@ -1,6 +1,10 @@
 # PersonalMirrorProject Group 17
 ![](Group17Photo.png)
+
+
 Alex Jirovsky, Caleb Horn, Luis Sandoval, Suhas Bacchu
+
+
 ![](PersonalMirrorUIGeneral.png)
 
 UI display when user selects the health option
