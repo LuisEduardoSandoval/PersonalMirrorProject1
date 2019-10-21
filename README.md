@@ -2,7 +2,7 @@
 ![](Project1Group17.png)
 
 
-Group 17 : Alex Jirovsky, Caleb Horn, Luis Sandoval, Suhas Bacchu
+Group 17 : Alex Jirovsky, Suhas Bacchu, Luis Sandoval, Caleb Horn
 
 
 ![](PersonalMirrorUIGeneral.png)
