@@ -1,5 +1,5 @@
 # PersonalMirrorProject Group 17
-![](Group17Photo.png)
+![](Project1Group17.png)
 
 
 Group 17 : Alex Jirovsky, Caleb Horn, Luis Sandoval, Suhas Bacchu
