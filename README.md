@@ -41,3 +41,7 @@ Plan to Move forward
 Implement UI and design features.
 
 Extra features and customization. A menu for desired items at the top and more integrated applications.
+
+Implemented Mirror UI
+
+![](MirrorUI.png)
